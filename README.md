@@ -7,9 +7,7 @@ I am Divyank Rawat and I'm a Web Dveloper. LinkedIn](https://www.linkedin.com/in
 
 ⚡ Fun fact: Anyone can connect with me, with good music and a cup of Coffee.   
 💬 Ask me anything, I will be more than happy to help :D
-Anyone can connect with me, with good music and a cup of Coffee
-
-     
+Anyone can connect with me, with good music and a cup of Coffee      
      
 Languages  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
