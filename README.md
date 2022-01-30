@@ -9,6 +9,8 @@ I am Divyank Rawat and I'm a Web Dveloper. LinkedIn](https://www.linkedin.com/in
 💬 Ask me anything, I will be more than happy to help :D
 Anyone can connect with me, with good music and a cup of Coffee
 
+     
+     
 Languages  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -30,7 +32,3 @@ Frameworks, Platforms and Libraries
 
 IDE   
 ![VS CODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-Education    
-![MDN](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
-![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
