@@ -3,11 +3,10 @@
 <h2 align="center"><img src="https://raw.githubusercontent.com/DivyankRawat/DivyankRawat/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png"></h2>
 
 <h2>About me</h2>
-I am Divyank Rawat and I'm a Web Dveloper. LinkedIn](https://www.linkedin.com/in/divyank-singh-rawat). I am very keen to learn new languages, frameworks and tools used in dvelopment and use them to either create something useful or to provide a better version of something already developed. 
+I am Divyank Rawat and I'm a Web Dveloper. LinkedIn : (https://www.linkedin.com/in/divyank-singh-rawat). I am very keen to learn new languages, frameworks and tools used in development and use them to either create something useful or to provide a better version of something already developed. 
 
 ⚡ Fun fact: Anyone can connect with me, with good music and a cup of Coffee.   
-💬 Ask me anything, I will be more than happy to help :D
-Anyone can connect with me, with good music and a cup of Coffee      
+💬 Ask me anything, I will be more than happy to help :D   
      
 Languages  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
